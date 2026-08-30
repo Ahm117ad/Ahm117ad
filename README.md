@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Software Developer
+# 👋 Hi There, I'm Ahmad
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Desktop_Development_%26_Software_Architecture-blue?style=for-the-badge" alt="Focus">

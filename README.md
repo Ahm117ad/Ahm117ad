@@ -28,19 +28,19 @@ I am an aspiring software developer dedicated to understanding core computer sci
 
 ## 🚀 Featured Projects
 
-### 🏦 [Bank System]([https://github.com/your-username/Bank-System](https://github.com/Ahm117ad/Bank_System))
+### 🏦 Bank System
 A C++ console-based Bank Management System featuring client, transaction, currency exchange, and user management. Built using an OOP layered architecture, role-based access control (bitwise permissions), and flat-file data persistence.
 * **Tech Stack:** C++, OOP, File I/O
 
-### 🍕 [[Pizza Order Management System](https://github.com/your-username/Pizza-Order](https://github.com/Ahm117ad/Pizza_Order.git))
+### 🍕 Pizza Order System
 A C# Windows Forms desktop application designed for customizing and pricing pizza orders in real-time with dynamic price recalculation and order summary reporting.
 * **Tech Stack:** C#, .NET, Windows Forms
 
-### ✂️ [Paper, Stone & Scissor Game](https://github.com/your-username/Paper-Stone-Scissor)
+### ✂️ Paper, Stone & Scissor Game
 A C++ console application that simulates a Paper/Stone/Scissor game against the computer across multiple rounds, complete with color-coded feedback and match performance summaries.
 * **Tech Stack:** C++
 
-### 🧮 [Math Quiz Game](https://github.com/your-username/Math-Quiz-Game)
+### 🧮 Math Quiz Game
 A C++ console-based math quiz application featuring selectable difficulty levels and operation types, random question generation, instant feedback, and comprehensive result summaries.
 * **Tech Stack:** C++
 

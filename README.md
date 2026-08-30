@@ -28,7 +28,7 @@ I am an aspiring software developer dedicated to understanding core computer sci
 
 ## 🚀 Featured Projects
 
-### 🏦 [Bank System](https://github.com/your-username/Bank-System)
+### 🏦 [Bank System]([https://github.com/your-username/Bank-System](https://github.com/Ahm117ad/Bank_System))
 A C++ console-based Bank Management System featuring client, transaction, currency exchange, and user management. Built using an OOP layered architecture, role-based access control (bitwise permissions), and flat-file data persistence.
 * **Tech Stack:** C++, OOP, File I/O
 
